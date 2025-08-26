@@ -1,1 +1,1 @@
-init - test - trigger public build result
+init - test - trigger public batch build result
